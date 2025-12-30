@@ -4,13 +4,13 @@ A full-stack application for analyzing and categorizing error logs automatically
 
 ## 🚀 Tech Stack
 
-- **Backend**: ASP.NET Core 6.0 (C#)
+- **Backend**: ASP.NET Core 8.0 (C#)
 - **Frontend**: React with TypeScript
 - **API Communication**: Axios
 
 ## 📋 Prerequisites
 
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - Git
 
