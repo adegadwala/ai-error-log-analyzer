@@ -1,0 +1,67 @@
+.App {
+    text-align: center;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #333;
+}
+
+textarea {
+    width: 100%;
+    max-width: 800px;
+    padding: 10px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 12px 30px;
+    font-size: 16px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0052a3;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+.error-list {
+    margin-top: 30px;
+    text-align: left;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.error-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.error-list li {
+    color: #000;
+    font-family: 'Courier New', monospace;
+    font-size: 13px;
+}
